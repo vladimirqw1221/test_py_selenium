@@ -1,0 +1,44 @@
+
+-----
+Test: tests/test_auto_page.py::test_on_start (call)
+Start time: 2022-10-13 07:38:32.913946
+Start name method: start_loggin
+
+End time: 2022-10-13 07:39:24.529751
+End name method: start_loggin
+URL: None
+
+-----
+
+-----
+Test: tests/test_auto_page.py::test_on_start (call)
+Start time: 2022-10-13 07:39:24.530591
+Start name method: select_product
+
+End time: 2022-10-13 07:40:20.269786
+End name method: select_product
+URL: None
+
+-----
+
+-----
+Test: tests/test_auto_page.py::test_on_start (call)
+Start time: 2022-10-13 07:40:20.271272
+Start name method: cart_path
+
+End time: 2022-10-13 07:41:51.468134
+End name method: cart_path
+URL: None
+
+-----
+
+-----
+Test: tests/test_auto_page.py::test_on_start (call)
+Start time: 2022-10-13 07:41:51.469162
+Start name method: detals_ofer
+
+End time: 2022-10-13 07:42:18.088510
+End name method: detals_ofer
+URL: None
+
+-----

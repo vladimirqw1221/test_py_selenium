@@ -1,0 +1,11 @@
+
+-----
+Test: tests/test_auto_page.py::test_on_start (call)
+Start time: 2022-10-13 07:19:26.245304
+Start name method: start_loggin
+
+End time: 2022-10-13 07:19:39.413466
+End name method: start_loggin
+URL: None
+
+-----

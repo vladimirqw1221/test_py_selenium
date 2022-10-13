@@ -1,0 +1,39 @@
+start test 
+Corrent URL http://automationpractice.com/index.php
+Click button logim
+Enter email
+Enetr Password
+click button done 
+Corrent URL http://automationpractice.com/index.php?controller=my-account
+Corrent URL http://automationpractice.com/index.php?controller=my-account
+Click section
+Scroll done
+Click toops
+Iframe opens
+Add to cart
+clkck on button checount
+Corrent URL http://automationpractice.com/index.php?controller=order
+Corrent URL http://automationpractice.com/index.php?controller=order
+Scroll done
+ckcik ptogtess 1
+Click proggres 2 
+Scroll done
+toogle on click 
+progger 3
+pqyment done
+good value word
+click button 'I confirm my order'
+Screenshat added
+click on button my order
+Corrent URL http://automationpractice.com/index.php?controller=history
+Corrent URL http://automationpractice.com/index.php?controller=history
+Click detals
+Scroll done
+ wrete dode
+clcik done
+click arrow down
+Click Enter
+Click home btn
+Screenshat added
+Corrent URL http://automationpractice.com/index.php
+Finish test
