@@ -8,8 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from utilites.logs_file import Logger
 
 
-# njknkjn@gmail.com
-# 1733392qwe@
+
 class Select_product(Buse):
 
 

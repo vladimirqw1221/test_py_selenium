@@ -6,8 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from utilites.logs_file import Logger
 import allure
 
-# njknkjn@gmail.com
-# 1733392qwe@
+
 class Autorezation(Buse):
 
     url = "http://automationpractice.com/index.php"

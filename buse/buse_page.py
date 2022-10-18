@@ -26,7 +26,7 @@ class Buse():
 
 
     def get_scroll_pqge_3(self):
-        self.driver.execute_script("window.scrollTo(0, 1700)")
+        self.driver.execute_script("window.scrollTo(0, 1700);")
         print("Scroll done")
 
 

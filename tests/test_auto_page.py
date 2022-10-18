@@ -12,6 +12,7 @@ import allure
 def test_on_start():
     driver = webdriver.Chrome(executable_path='/Users/user/Desktop/resourse/chromedriver')
 
+
     print("start test ")
 
 
